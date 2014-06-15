@@ -17,9 +17,9 @@
 
 // database config
 $db_host			= 'localhost';		// In most cases you should leave this alone.
-$db_user			= 'admin_test';		// MySQL username.
-$db_pass			= 'ndD0g71?';		// MySQL password.
-$db_database		= 'admin_test';		// MySQL database name.
+$db_user			= 'database_username';		// MySQL username.
+$db_pass			= 'password';		// MySQL password.
+$db_database		= 'database';		// MySQL database name.
 // site config
 $site_title			= 'Gitcloud - The Pirate Bay magnet mirror';
 $site_name			= 'Gitcloud';

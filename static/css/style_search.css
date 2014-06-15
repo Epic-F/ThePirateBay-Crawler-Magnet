@@ -1,0 +1,69 @@
+/*
+ *			style_search.css 
+ *            .---._------------------------------+
+ *___________/ ._____)                            |
+ *              ) __|         created by          |
+ *                __|      Fadi Abdalkhalk        |
+ *..---------.._____|                             |
+ *                  +-----------------------------+
+ *
+ *	copyright 2014 - Gitcloud
+ *	created on 13-06-2014
+ *	email: fadiabdalkhalk@gmail.com
+ * 
+ */
+
+@font-face {
+  font-family: 'Poiret One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poiret One'), local('PoiretOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/poiretone/v1/HrI4ZJpJ3Fh0wa5ofYMK8RsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+
+/* header */
+.header h3 { padding-bottom: 19px; margin-top: 0; margin-bottom: 0; line-height: 40px; }
+.header { border-bottom: 1px solid #e5e5e5; text-align: center; margin-top: 100px;}
+.header_left { float: left; }
+.header_right { float: right; }
+/*   logo   */
+h1.logo{ font-size:50px; font-family:'Poiret One',sans; text-align:left; margin-left: 5px; margin-top: auto; color:#666; text-shadow:0px 1px 2px rgba(0,0,0,.3); width:180px;  float:left;  overflow:hidden;  padding-left:5px;}
+h1.logo span:nth-of-type(1){ color:#539fb5; }
+h1.logo span:nth-of-type(2){ color:#d7545a; }
+h1.logo span:nth-of-type(3){ color:#edbd5b; }
+h1.logo span:nth-of-type(4){ color:#539fb5; }
+h1.logo span:nth-of-type(5){ color:#b9d088; }
+h1.logo span:nth-of-type(6){ color:#d7545a; }
+h1.logo span:nth-of-type(7){ color:#539fb5; }
+h1.logo span:nth-of-type(8){ color:#edbd5b; }
+/*   logo end   */
+/*   menu       */
+.menu{ height:60px; border-bottom:1px solid #e5e5e5; width: 100%; float:left; overflow:hidden; padding-left:5px; position: fixed; background-color: white; z-index: 100; }
+.menu-search { margin-top: 6px; width: 150px; }
+.navbar-form { padding-top: 5px; }
+.navbar-form .form-control { width: 100%;  }
+.form-group { width: 312px; }
+/*   logo end   */
+/* header end */
+.container { padding-left: 5px; padding-right: 5px; margin-left: auto; margin-right: auto;}
+.content {  position: relative; text-align: left; -width: expression(document.body.clientWidth < 960? "960px" : document.body.clientWidth > 1200? "1200px" : "auto"); min-width: 960px; max-width: 1200px; margin: 15px auto 0px auto; }
+/* footer */
+.page-search { width: 200px;}
+.footer_left { float: left; }
+.footer_right { float: right; }
+.footer { padding-right: 15px; padding-left: 15px; }
+
+
+
+

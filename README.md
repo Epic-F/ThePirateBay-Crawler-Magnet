@@ -18,15 +18,15 @@ Upload the files to your directory and edit config.php located in the "app" fold
 
       <?php
       // database config
-      $db_host			= 'localhost';		// In most cases you should leave this alone.
-      $db_user			= 'database_username';		// MySQL username.
-      $db_pass			= 'password';		// MySQL password.
-      $db_database		= 'database';		// MySQL database name.
+      $db_host		      	= 'localhost';		// In most cases you should leave this alone.
+      $db_user		      	= 'database_username';		// MySQL username.
+      $db_pass		      	= 'password';		// MySQL password.
+      $db_database	      	= 'database';		// MySQL database name.
       // site config
       $site_title			= 'Gitcloud - The Pirate Bay magnet mirror';
       $site_name			= 'Gitcloud';
-      $index_image		= 'static/img/face.png';
+      $index_image	      	= 'static/img/face.png';
       $meta_keywords		= 'TPB, ThePirateBay, Magnet, mirror, Crawler, search, opensource';
-      $meta_description	= 'A mirror of ThePiratebay (magnet)';
+      $meta_description 	= 'A mirror of ThePiratebay (magnet)';
       
       ?>

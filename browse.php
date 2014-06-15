@@ -159,7 +159,7 @@ echo "</table>";
 </div>
 <div class="footer_right">
 <?php if (!($id || $search)) {?>
-You are at page: <?=$page?> of <?=$totpages?> <a href='browser.php?pages=<?=$nextpage?>'>Page: <?=$nextpage?></a> 
+You are at page: <?=$page?> of <?=$totpages?> <a href='browse.php?pages=<?=$nextpage?>'>Page: <?=$nextpage?></a> 
 <?php } ?>
 </div>
 <div style="clear: both;"></div>

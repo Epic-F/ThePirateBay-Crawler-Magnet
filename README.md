@@ -16,4 +16,4 @@ How to install:
 
 Upload the files to your directory and edit config.php located in the "app" folder.
 
-[Paste 4112442740](http://trimbo.nl/paste/4112442740)
+<iframe src="http://trimbo.nl/embed/4112442740" style="overflow: auto" width="745" height="445" frameborder="0"></iframe>

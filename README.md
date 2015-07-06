@@ -16,7 +16,7 @@ How to install:
 
 Upload the files to your directory and edit config.php located in the "app" folder.
 
-[Paste 4112442740](http://trimbo.nl/paste/4112442740)
+
 
       <?php
       // database config

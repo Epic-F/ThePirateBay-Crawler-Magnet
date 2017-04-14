@@ -3,7 +3,7 @@ ThePirateBay-Crawler-Magnet
 
 The Pirate Bay Crawler (mirror magnets to own database).
 
-Live demo: http://tpb.gitcore.nl
+Live demo: http://tpb.gitcloud.nl
 
 This project is based on https://github.com/IcyApril/TPCrawler. I changed alot to the base project, made it more
 user friendly and added Bootstrap. Gave it a Google like index page and cleaned up the scripts. 

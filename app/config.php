@@ -4,13 +4,12 @@
  *            .---._------------------------------+
  *___________/ ._____)                            |
  *              ) __|         created by          |
- *                __|      Fadi Abdalkhalk        |
+ *                __|          Epic_F             |
  *..---------.._____|                             |
  *                  +-----------------------------+
  *
  *	copyright 2014 - Gitcloud
  *	created on 13-06-2014
- *	email: fadiabdalkhalk@gmail.com
  * 	based on https://github.com/IcyApril/TPCrawler
  * 
  */
